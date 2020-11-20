@@ -1,0 +1,27 @@
+{
+  "name": "carpeta",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "parcel": "^2.0.0-nightly.447",
+    "sass": "^1.29.0"
+  },
+  "alias": {
+    "leaflet": { "global": "L" }
+    },
+  "scripts": {
+    "build-yarn": "yarn css && yarn js",
+    "build": "cross-env NODE_ENV=production parcel build index2.html --dist-dir dist --no-source-maps",
+    "prebuild": "rm -fr .parcel-cache dist || exit 0",
+    "prebuild-yarn": "rm -rv dist",
+    "prestart": "rm -fr .parcel-cache dist",
+    "start": "cross-env NODE_ENV=development parcel index.html --dist-dir dist --no-autoinstall --no-source-maps",
+    "css": "sass input.scss dist/style.css",
+    "js": "babel . --ignore node_modules --out-dir dist"
+  }
+  
+  
+    
+  
+}

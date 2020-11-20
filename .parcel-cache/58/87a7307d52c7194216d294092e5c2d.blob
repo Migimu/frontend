@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Document</title>
+        <link rel="stylesheet" href="b0e2b7f5c7b633dd9f1c9f1b8e9f73de">
+        <link rel="stylesheet" href="102e4406718023e0ddef21aeadcc6396" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="">
+    </head>
+    <body> 
+        <header class="dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde deleniti amet ipsum. Voluptates beatae tempore explicabo, iure fugiat mollitia accusantium excepturi illum, quae numquam cupiditate ipsam, qui earum. Minima, quod!</header> 
+        <div id="mapid"></div>
+        <section class="light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid labore magnam et necessitatibus, quos deserunt praesentium repellendus cum voluptatibus ea aperiam illum qui, iste voluptates. Quo voluptas suscipit inventore quod?</section> 
+        <footer class="dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis vero, possimus modi autem earum hic accusamus minima dignissimos minus itaque suscipit voluptatum dolorem soluta expedita reprehenderit quae deserunt. Officia, consectetur.</footer> 
+        <script src="1ae6122e4be100f98569a1d50ae21c71" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+        <script src="c4cc00a254c525aaa02457d3bd1f9405"></script>
+    </body>
+</html>
